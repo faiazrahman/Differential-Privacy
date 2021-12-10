@@ -5,8 +5,24 @@ A collection of relevant papers and resources for differential privacy and priva
 _This collection was developed by Faiaz Rahman for the course CS 677: Advanced Natural Language Processing (Fall 2021) under Dr. Dragomir Radev at Yale University._
 
 ## Differential Privacy
-- Differential Privacy, as originally defined by Cynthia Dwork [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/dwork.pdf)
-- The Algorithmic Foundations of Differential Privacy [[textbook]](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+- Theory of Differential Privacy
+  - Differential Privacy, as originally originally defined by Cynthia Dwork [[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/dwork.pdf)
+  - The Algorithmic Foundations of Differential Privacy [[textbook]](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)
+  - Differential Privacy and Applications [[textbook]](https://link.springer.com/content/pdf/10.1007/978-3-319-62004-6.pdf)
+  - Local Differential Privacy and Its Applications: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2008.03686)
+  - The Complexity of Differential Privacy [[chapter]](https://link.springer.com/chapter/10.1007/978-3-319-57048-8_7)
+- Differential Privacy and Machine Learning
+  - Differential Privacy and Machine Learning: a Survey and Review [[paper]](https://arxiv.org/abs/1412.7584)
+  - More Than Privacy: Applying Differential Privacy in Key Areas of Artificial Intelligence [[paper]](https://arxiv.org/abs/2008.01916)
+- Maintaining Privacy
+  - Issues Encountered Deploying Differential Privacy [[paper]](https://dl.acm.org/doi/pdf/10.1145/3267323.3268949)
+  - Detecting Violations of Differential Privacy [[paper]](https://dl.acm.org/doi/pdf/10.1145/3243734.3243818)
+  - Differential Privacy under Continual Observation [[paper]](https://dl.acm.org/doi/pdf/10.1145/1806689.1806787)
+- Tuning Privacy
+  - Differential Privacy: An Estimation Theory-Based Method for Choosing Epsilon [[paper]](https://arxiv.org/abs/1510.00917)
+  - How Much Is Enough? Choosing ε for Differential Privacy [[paper]](https://link.springer.com/chapter/10.1007/978-3-642-24861-0_22)
+- Scaling Privacy
+  - Distributed Differential Privacy via Shuffling [[paper]](https://arxiv.org/abs/1808.01394)
 
 ## Additional Approaches to Data Privacy
 - Federated Learning: Collaborative Machine Learning without Centralized Training Data [[article]](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
