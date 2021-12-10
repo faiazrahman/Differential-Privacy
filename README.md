@@ -11,16 +11,20 @@ _This collection was developed by Faiaz Rahman for the course CS 677: Advanced N
   - Differential Privacy and Applications [[textbook]](https://link.springer.com/content/pdf/10.1007/978-3-319-62004-6.pdf)
   - Local Differential Privacy and Its Applications: A Comprehensive Survey [[paper]](https://arxiv.org/abs/2008.03686)
   - The Complexity of Differential Privacy [[chapter]](https://link.springer.com/chapter/10.1007/978-3-319-57048-8_7)
+
 - Differential Privacy and Machine Learning
   - Differential Privacy and Machine Learning: a Survey and Review [[paper]](https://arxiv.org/abs/1412.7584)
   - More Than Privacy: Applying Differential Privacy in Key Areas of Artificial Intelligence [[paper]](https://arxiv.org/abs/2008.01916)
+
 - Maintaining Privacy
   - Issues Encountered Deploying Differential Privacy [[paper]](https://dl.acm.org/doi/pdf/10.1145/3267323.3268949)
   - Detecting Violations of Differential Privacy [[paper]](https://dl.acm.org/doi/pdf/10.1145/3243734.3243818)
   - Differential Privacy under Continual Observation [[paper]](https://dl.acm.org/doi/pdf/10.1145/1806689.1806787)
+
 - Tuning Privacy
   - Differential Privacy: An Estimation Theory-Based Method for Choosing Epsilon [[paper]](https://arxiv.org/abs/1510.00917)
   - How Much Is Enough? Choosing ε for Differential Privacy [[paper]](https://link.springer.com/chapter/10.1007/978-3-642-24861-0_22)
+
 - Scaling Privacy
   - Distributed Differential Privacy via Shuffling [[paper]](https://arxiv.org/abs/1808.01394)
 
@@ -38,10 +42,31 @@ _This collection was developed by Faiaz Rahman for the course CS 677: Advanced N
 - Information Leakage in Embedding Models [[paper]](https://arxiv.org/abs/2004.00053)
 
 ## Privacy-Preserving Learning for NLP
-- Natural Language Understanding with Privacy-Preserving BERT [[paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/880bd423bc5664f9c6ebcadd76b00b945c9c3a63.pdf)
-- Differential Privacy for Text Analytics via Natural Text Sanitization [[paper]](https://aclanthology.org/2021.findings-acl.337.pdf)
-- Privacy- and Utility-Preserving Textual Analysis via Calibrated Multivariate Perturbations [[paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371856)
-- Privacy-preserving Neural Representations of Text [[paper]](https://aclanthology.org/D18-1001.pdf)
+- Privacy in Language Models
+  - Natural Language Understanding with Privacy-Preserving BERT [[paper]](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/880bd423bc5664f9c6ebcadd76b00b945c9c3a63.pdf)
+  - Differentially Private Language Models Benefit from Public Pre-training [[paper]](https://aclanthology.org/2020.privatenlp-1.5.pdf)
+
+- Text Sanitization
+  - Differential Privacy for Text Analytics via Natural Text Sanitization [[paper]](https://aclanthology.org/2021.findings-acl.337.pdf)
+  - Privacy-Aware Text Rewriting [[paper]](https://aclanthology.org/W19-8633.pdf)
+  - ADePT: Auto-encoder based Differentially Private Text Transformation [[paper]](https://aclanthology.org/2021.eacl-main.207.pdf)
+
+- Perturbation Methods
+  - Privacy- and Utility-Preserving Textual Analysis via Calibrated Multivariate Perturbations [[paper]](https://dl.acm.org/doi/pdf/10.1145/3336191.3371856)
+  - A Differentially Private Text Perturbation Method Using a Regularized Mahalanobis Metric [[paper]](https://aclanthology.org/2020.privatenlp-1.2.pdf)
+
+- Private Representations and Embeddings
+  - CAPE: Context-Aware Private Embeddings for Private Language Learning [[paper]](https://aclanthology.org/2021.emnlp-main.628.pdf)
+  - Private Release of Text Embedding Vectors [[paper]](https://aclanthology.org/2021.trustnlp-1.3.pdf)
+  - Privacy-preserving Neural Representations of Text [[paper]](https://aclanthology.org/D18-1001.pdf)
+  - Towards Robust and Privacy-preserving Text Representations [[paper]](https://aclanthology.org/P18-2005.pdf)
+  - Private Release of Text Embedding Vectors [[paper]](https://aclanthology.org/2021.trustnlp-1.3.pdf)
+
+- Certified Robustness to Word Substitution Attack with Differential Privacy [[paper]](https://aclanthology.org/2021.naacl-main.87.pdf)
+- Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness [[paper]](https://aclanthology.org/2020.findings-emnlp.213.pdf)
+- Privacy-Preserving News Recommendation Model Learning [[paper]](https://aclanthology.org/2020.findings-emnlp.128.pdf)
+- TextHide: Tackling Data Privacy in Language Understanding Tasks [[paper]](https://aclanthology.org/2020.findings-emnlp.123.pdf)
+- On a Utilitarian Approach to Privacy Preserving Text Generation [[paper]](https://aclanthology.org/2021.privatenlp-1.2.pdf)
 
 ## Differential Privacy in Industry
 - Apple's Differential Privacy Technical Overview [[article]](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf)
