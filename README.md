@@ -30,8 +30,10 @@ _This collection was developed by Faiaz Rahman for the course CS 677: Advanced N
 
 ## Additional Approaches to Data Privacy
 - Federated Learning: Collaborative Machine Learning without Centralized Training Data [[article]](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+- Federated Learning of N-gram Language Models [[paper]](https://aclanthology.org/K19-1012.pdf)
 - Multi-view Embedding-based Synonyms for Email Search [[paper]](https://dl.acm.org/doi/10.1145/3331184.3331250)
 - Learning from User Interactions in Personal Search via Attribute Parameterization [[paper]](https://dl.acm.org/doi/10.1145/3018661.3018712)
+- Deep Reinforcement Learning-based Text Anonymization against Private-Attribute Inference [[paper]](https://aclanthology.org/D19-1240.pdf)
 
 ## Background and Motivation for Privacy for NLP
 - Ethical Challenges in Data-Driven Dialogue Systems § 5 on Privacy [[paper]](https://dl.acm.org/doi/pdf/10.1145/3278721.3278777)
@@ -40,6 +42,8 @@ _This collection was developed by Faiaz Rahman for the course CS 677: Advanced N
 - Extracting Training Data from Large Language Models [[paper]](https://arxiv.org/abs/2012.07805)
 - Privacy Risks of General-Purpose Language Models [[paper]](https://ieeexplore.ieee.org/document/9152761)
 - Information Leakage in Embedding Models [[paper]](https://arxiv.org/abs/2004.00053)
+- Membership Inference Attacks on Sequence-to-Sequence Models: Is My Data In Your Machine Translation System? [[paper]](https://aclanthology.org/2020.tacl-1.4.pdf)
+- Personal Information Leakage Detection in Conversations [[paper]](https://aclanthology.org/2020.emnlp-main.532.pdf)
 
 ## Privacy-Preserving Learning for NLP
 - Privacy in Language Models
@@ -67,6 +71,7 @@ _This collection was developed by Faiaz Rahman for the course CS 677: Advanced N
 - Privacy-Preserving News Recommendation Model Learning [[paper]](https://aclanthology.org/2020.findings-emnlp.128.pdf)
 - TextHide: Tackling Data Privacy in Language Understanding Tasks [[paper]](https://aclanthology.org/2020.findings-emnlp.123.pdf)
 - On a Utilitarian Approach to Privacy Preserving Text Generation [[paper]](https://aclanthology.org/2021.privatenlp-1.2.pdf)
+- PrivNet: Safeguarding Private Attributes in Transfer Learning for Recommendation [[paper]](https://aclanthology.org/2020.findings-emnlp.404.pdf)
 
 ## Differential Privacy in Industry
 - Apple's Differential Privacy Technical Overview [[article]](https://www.apple.com/privacy/docs/Differential_Privacy_Overview.pdf)
